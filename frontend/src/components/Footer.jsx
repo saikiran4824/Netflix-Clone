@@ -53,7 +53,7 @@ const Footer = () => {
 
         {/* Footer Bottom Section: Copyright */}
         <div className="text-center text-sm text-gray-500">
-          <p>© {new Date().getFullYear()} Netflix SAIKIRAN. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Netflix SAIKIRAN RAVIRALA. All rights reserved.</p>
         </div>
       </div>
     </footer>
