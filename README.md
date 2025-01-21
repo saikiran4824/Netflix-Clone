@@ -2,7 +2,18 @@
 
 This project is a **Netflix clone** built using modern web development technologies and practices such as **React.js**, **JavaScript**, **Tailwind CSS**, and **API Integration**. The application mimics the functionality of the popular Netflix streaming platform, providing users with a rich, engaging, and responsive movie and TV show browsing experience. The project features key functionalities including **authentication**, **authorization**, and **protected routes**, ensuring that users can securely log in and access exclusive content based on their credentials.
 
+Will Host the project in future, please look into video to understand project better.
 [Watch the Netflix MERN Project on Vimeo](https://vimeo.com/1048789536?h=6037ce7e9d)
+
+
+![Screenshot 2025-01-21 103433](https://github.com/user-attachments/assets/fcdf0fd8-4007-4386-940a-f2fedbb53e61)
+![Screenshot 2025-01-21 103910](https://github.com/user-attachments/assets/4887e92c-5919-4e57-85bb-ad12ec8eb5fd)
+![Screenshot 2025-01-21 103929](https://github.com/user-attachments/assets/f8b35fe6-4e73-44ac-9413-ab2f44d5cf47)
+![Screenshot 2025-01-21 104008](https://github.com/user-attachments/assets/c0eadaf4-cb1e-4cdd-b989-0af64b03a988)
+
+
+
+
 
 
 
