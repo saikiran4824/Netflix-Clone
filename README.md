@@ -4,7 +4,7 @@ This project is a **Netflix clone** built using modern web development technolog
 
 Will Host the project in future, please look into video to understand project better.
 
-[Watch My Netflix MERN Project on Vimeo](https://vimeo.com/1048789536?h=6037ce7e9d)
+[Watch My Netflix MERN Project Video Demo from here](https://vimeo.com/1048789536?h=6037ce7e9d)
 
 
 ![Screenshot 2025-01-21 103433](https://github.com/user-attachments/assets/fcdf0fd8-4007-4386-940a-f2fedbb53e61)
