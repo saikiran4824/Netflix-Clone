@@ -1,10 +1,11 @@
 # Netflix Clone - Full Stack Web Application
 
-This project is a **Netflix clone** built using modern web development technologies and practices such as **React.js**, **JavaScript**, **Tailwind CSS**, and **API Integration**. The application mimics the functionality of the popular Netflix streaming platform, providing users with a rich, engaging, and responsive movie and TV show browsing experience. The project features key functionalities including **authentication**, **authorization**, and **protected routes**, ensuring that users can securely log in and access exclusive content based on their credentials.
+This project is a **Netflix Clone** built using modern web development technologies and industry best practices, including **React.js**, **JavaScript**, **Tailwind CSS**, and **API Integration**. The application replicates the core features and user experience of the widely used Netflix streaming platform, offering an intuitive and responsive interface for browsing movies and TV shows. Key features of the project include **User Authentication and Authorization**, allowing secure user login and registration, and **Protected Routes**, ensuring exclusive content is only accessible to authenticated users. The platform is fully responsive, providing an optimized viewing experience across a range of devices, and integrates with external APIs to fetch real-time movie and TV show data. This project demonstrates the use of modern front-end tools to create a seamless and engaging user experience while ensuring secure and efficient handling of user data.
+
 
 Will Host the project in future, please look into video to understand project better.
 
-[Watch My Netflix MERN Project Video Demo from here](https://vimeo.com/1048789536?h=6037ce7e9d)
+[Watch My Netflix MERN Project Video Demo from here Youtube](https://youtu.be/WLiP2Wvqedw)), will add audio using text to AI Audio generator in future
 
 
 ![Screenshot 2025-01-21 103433](https://github.com/user-attachments/assets/fcdf0fd8-4007-4386-940a-f2fedbb53e61)
